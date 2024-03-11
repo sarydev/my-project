@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to the 'Git for beginner'my project
 
 
 Author:Roeurm kh sary
